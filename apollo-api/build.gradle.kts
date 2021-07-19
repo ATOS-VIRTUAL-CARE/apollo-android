@@ -26,7 +26,7 @@ kotlin {
 
   js {
     useCommonJs()
-    browser()
+//    browser()
     nodejs()
   }
 
